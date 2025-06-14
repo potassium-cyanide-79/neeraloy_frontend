@@ -10,7 +10,7 @@ This is the React-based frontend for the Neeraloy rental platform.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/potassium-cyanide-79/neeraloy_frontend
+git clone https://github.com/potassium-cyanide-79/neeraloy_frontend.git
 cd neeraloy_frontend
 ```
 
