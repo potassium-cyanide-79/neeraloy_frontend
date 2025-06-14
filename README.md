@@ -1,1 +1,32 @@
-<h1>NeerAloy's Frontend</h1>
+# Neeraloy Frontend
+
+This is the React-based frontend for the Neeraloy rental platform.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/potassium-cyanide-79/neeraloy_frontend
+cd neeraloy_frontend
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm start
+```
+
+### Running Test 
+
+```bash
+npm test
+```
