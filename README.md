@@ -25,7 +25,7 @@ npm install
 npm start
 ```
 
-### Running Test 
+### 4. Running Test 
 
 ```bash
 npm test
